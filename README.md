@@ -2,7 +2,7 @@
 ### The modpack for the WorldBlock server
 Select the Modpack type that works for you, Cursforge or Modrinth.
 
-> The current version is: `1.0.2 ALPHA`
+> The current version is: `1.0.3 BETA`
 
 To use the CurseForge Pack start by clicking on **Curseforge Pack**
 
